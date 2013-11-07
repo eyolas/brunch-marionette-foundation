@@ -1,0 +1,39 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+#bower
+bower_components
+bower_components/*
+
+#build
+build
+build/*
+public
+public/*
+
+coverage.html
+.DS_Store
+pids
+logs
+results
+*.pid
+*.gz
+*.log
+lib-cov
+test.js
+docs/*.html
+docs/*.json
+node_modules
+node_modules/*
+.idea
+*.iml

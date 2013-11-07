@@ -1,0 +1,31 @@
+{
+  "name": "etfeedbackapp",
+  "version": "0.0.1",
+  "main": "public/javascripts/app.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "backbone": "~1.0.0",
+    "backbone.marionette": "~1.1.0",
+    "underscore": "~1.5.2",
+    "console-polyfill": "~0.1.0",
+    "jquery": "~2.0.3",
+    "bower-foundation-css": "git://github.com/eyolas/bower-foundation-css",
+    "bower-foundation-js": "git://github.com/eyolas/bower-foundation-js"
+  },
+  "overrides": {
+    "backbone": {
+      "dependencies": {
+        "underscore": "*",
+        "jquery": "*"
+      },
+      "main": "backbone.js"
+    },
+    "underscore": {
+      "main": "underscore.js"
+    }
+  }
+}

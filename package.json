@@ -1,0 +1,26 @@
+{
+    "author": "Touzet David",
+    "name": "brunch-marionette-foundation",
+    "description": "MarionetteJS application template for Brunch.io with foundation",
+    "version": "0.0.1",
+    "homepage": "",
+    "repository": {nan
+        "type": "git",
+        "url": " git+https://github.com/eyolas/brunch-marionette-foundation"
+    },
+    "scripts": {
+        "start": "brunch watch --server"
+    },
+    "dependencies": {
+        "javascript-brunch": ">= 1.0 < 1.7",
+        "coffee-script-brunch": ">= 1.0 < 1.7",
+
+        "css-brunch": ">= 1.0 < 1.7",
+
+        "handlebars-brunch": ">= 1.0 < 1.7",
+
+        "uglify-js-brunch": ">= 1.0 < 1.7",
+        "clean-css-brunch": ">= 1.0 < 1.7"
+    },
+    "license": "mit"
+}
