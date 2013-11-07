@@ -1,5 +1,8 @@
-# Brunch with Marionette
+# Brunch with Marionette and Zurb Foundation 4
 This is a simple coffeescript based skeleton for [Brunch](http://brunch.io/) which utilizes [MarionetteJS](http://marionettejs.com/) and Zurb Foundation 4.
+
+Use css for foundation.
+If you want use SASS, use [brunch-foundation](https://github.com/talentriot/brunch-foundation) skeleton.
 
 Main features are [CoffeeScript](http://coffeescript.org/),
 [Handlebars](http://handlebarsjs.com/).
@@ -20,3 +23,6 @@ Versions of software the skeleton uses:
 * Zurb foundation 4.3.2
 * MarionetteJS 1.1.0
 
+## Credit
+This skeleton was spawned from [Brunch with Marionette](https://github.com/SimbCo/brunch-with-marionette).
+Rewrite for use Zurb foundation
