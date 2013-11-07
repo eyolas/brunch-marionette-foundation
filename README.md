@@ -1,9 +1,9 @@
 # Brunch with Marionette
-This is a simple coffeescript based skeleton for [Brunch](http://brunch.io/) which utilizes [MarionetteJS](http://marionettejs.com/) and Bootstrap 3.
+This is a simple coffeescript based skeleton for [Brunch](http://brunch.io/) which utilizes [MarionetteJS](http://marionettejs.com/) and Zurb Foundation 4.
 
 Main features are [CoffeeScript](http://coffeescript.org/),
 [Handlebars](http://handlebarsjs.com/).
-[Bootstrap 3](http://foundation.zurb.com/).
+[Zurb Foundation 4](http://foundation.zurb.com/).
 
 ## Getting started
 * Create new project via executing `brunch new gh:eyolas/brunch-marionette-foundation <project name>
@@ -19,3 +19,4 @@ Versions of software the skeleton uses:
 * Underscore 1.5.2
 * Zurb foundation 4.3.2
 * MarionetteJS 1.1.0
+
