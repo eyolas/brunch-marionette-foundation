@@ -4,7 +4,7 @@
     "description": "MarionetteJS application template for Brunch.io with foundation",
     "version": "0.0.1",
     "homepage": "",
-    "repository": {nan
+    "repository": {
         "type": "git",
         "url": " git+https://github.com/eyolas/brunch-marionette-foundation"
     },
